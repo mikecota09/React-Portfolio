@@ -18,4 +18,4 @@ You can find the deployed porfolio here https://mikecota09.github.io/React-portf
 
 ## Screenshot
 
-![react-portfolio-screenshot](public\images\screencapture-localhost-3000-2022-06-26-12_33_19.png)
+![react-portfolio-screenshot](https://github.com/mikecota09/React-portfolio/blob/main/public/images/screencapture-localhost-3000-2022-06-26-12_33_19.png?raw=true)
