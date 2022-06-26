@@ -14,7 +14,7 @@ I am currently enrolled in the Michigan State University Full Stack Coding Bootc
 
 ## Deployment
 
-You can find the deployed porfolio here https://mikecota09.github.io/React-portfolio/
+You can find the deployed porfolio here https://mikecota09.github.io/React-portfolio
 
 ## Screenshot
 
