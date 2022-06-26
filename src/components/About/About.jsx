@@ -11,7 +11,7 @@ function About() {
       showCursor: true,
       backDelay: 1500,
       backSpeed: 60,
-      strings: ["leader", "full stack developer", "dedicated worker"],
+      strings: ["leader", "passionate team member", "dedicated worker"],
     });
   }, []);
 
@@ -19,7 +19,10 @@ function About() {
     <div className="about" id="about">
       <div className="left">
         <div className="imgContainer">
-          <img src="public\images\IMG_1991.jpg" alt="profile pic" />
+          <img
+            src="https://github.com/mikecota09/React-portfolio/blob/main/public/images/IMG_1991.jpg?raw=true"
+            alt="profile pic"
+          />
         </div>
       </div>
       <div className="right">
